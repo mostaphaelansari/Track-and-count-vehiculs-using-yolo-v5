@@ -1,1 +1,1 @@
-# Learning-by-doing
+As part of a project initiative, I employed advanced image processing techniques leveraging YOLO V8 to detect and count vehicles within an intersection. The primary objective was to discern the lane with the highest volume of vehicles, aiming to streamline access to this lane for improved traffic flow and efficiency..
